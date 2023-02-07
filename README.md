@@ -10,3 +10,5 @@ For Debian EC2 AMI login as user **bitnami** and install SSM Agent. Also ensure 
 
 **https://docs.aws.amazon.com/systems-manager/latest/userguide/agent-install-deb.html**
 
+![image](https://user-images.githubusercontent.com/91480603/217317673-10edd8ee-9f46-4494-85bb-b3e5dca26bbd.png)
+
