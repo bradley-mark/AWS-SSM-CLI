@@ -6,3 +6,4 @@
 
 **Start session**
 
+For Debian EC2 AMI login as user **bitnami** and install SSM Agent. Also ensure **AmazonSSMManagedInstanceCore** role is attached to EC2.
